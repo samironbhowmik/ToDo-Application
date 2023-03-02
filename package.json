@@ -1,0 +1,26 @@
+{
+  "name": "todo-application",
+  "version": "1.0.0",
+  "description": "a todo application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samironbhowmik/ToDo-Application.git"
+  },
+  "author": "Samiron Bhowmik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samironbhowmik/ToDo-Application/issues"
+  },
+  "homepage": "https://github.com/samironbhowmik/ToDo-Application#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
